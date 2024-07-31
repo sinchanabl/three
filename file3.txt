@@ -8,3 +8,4 @@ new commitsss(for final checkout)
 newcherrypick
 new feature branch
 >>>>>>> feature2
+tryyingggg newww againn
