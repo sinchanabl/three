@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 new stashhhgu
 newwwwww
 cherrypick
+=======
+new stashhh
+new commitsss(for final checkout)
+newcherrypick
+new feature branch
+>>>>>>> feature2

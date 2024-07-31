@@ -1,4 +1,8 @@
 hiiiiiii
 feature effects
+<<<<<<< HEAD
 new edits
 cherrypickkkk
+=======
+stash changes
+>>>>>>> feature2
